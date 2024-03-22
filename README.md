@@ -1,7 +1,9 @@
 # Deep-Learning-7-Convolutional-Neural-Networks
 
-Dataset is CIFAR-10.
-For this project I am are programming Deep Convolutional Neural Networks in the PyTorch environment. We will be testing the accuracy on about 10K images.
+This project focuses on using Deep Convolutional Neural Networks (CNNs) implemented in PyTorch to classify images from the CIFAR-10 dataset. 
+Approximately 10,000 images are used for testing accuracy. The model undergoes training for 100 epochs, after which predictions are made. 
+
+Specifically, a ResNet-50 architecture is programmed for CIFAR-10 classification, allowing for the utilization of many CNN layers without encountering vanishing gradients. The achieved accuracy stands at 84.85%.
 
 
 *Running 100 Epochs and getting predictions*
